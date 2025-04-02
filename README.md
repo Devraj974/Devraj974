@@ -43,7 +43,7 @@
 
 ### 🛡️ Some Cool Projects
 
-- 🏴‍☠️ **Virtualized Security Lab** – Built a sandbox to test security exploits & defenses.  
+- 🏴‍☠️ **Virtualized Security Lab** – Configured firewall rules, ICMP filtering, and analyzed network traffic for security.  
 - 🏠 **Smart Home Automation** – Automated home devices with Arduino & IoT.  
 - 🤖 **Social Distancing Detector** – Used Raspberry Pi & AI to monitor social distancing.  
 
