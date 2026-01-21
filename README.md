@@ -1,68 +1,53 @@
-### 👋 Hey, I'm Devraj Kalyani!
-*GRC & Cybersecurity Analyst | IT Solutions Analyst |Network & Threat Analyst* 
+# 👋 Hi, I'm Devraj Kalyani
+**GRC & Cybersecurity Analyst | [cite_start]ISO 27001 Lead Auditor** [cite: 1, 46]
+
+[cite_start]I am a security professional focused on bridging the gap between technical defense and regulatory compliance[cite: 1, 43]. [cite_start]With a background in **Information Technology Engineering**, I specialize in implementing robust security frameworks, streamlining audit readiness, and managing enterprise-level network environments[cite: 5, 18, 22].
 
 ---
 
-### 🚀 A Bit About Me
-
-- 🛡️ **GRC and Cybersecurity** are my primary focus, with experience in Compliance, Incident Response, and Threat Intelligence. 
-- 🌐 **Proven ability** to enhance security and operational efficiency through strategic implementation of systems and protocols. 
-- 💻 **Hands-on experience** with managing Active Directory in a corporate environment simulation.
-- 🎓 Holds a Bachelor of Engineering in Information Technology from the University of Mumbai. 
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Tools & Technologies | Frameworks & Standards |
-| :--- | :--- | :--- |
-| **Security & GRC** | Vulnerability Scanning Tools, Root Cause Analysis Techniques, Wireshark | NIST CSF, ISO 27001, GDPR, HIPAA, Cyber Threat Intelligence Frameworks, Policy Development & Review | 
-| **Networking & Systems** | Active Directory Domain Services (AD DS), DHCP, DNS, NAT, PowerShell, Windows Server 2019, Kali Linux, Windows Defender Firewall |Network Security Protocols, Network Configuration Standards, Load Balancer Implementation Techniques, Audit Management & Remediation | 
-| **Virtualization** | Oracle VirtualBox, VMware | 
+## 🛡️ Professional Impact
+* [cite_start]**GRC & Compliance:** Enhanced client compliance readiness by **40%** through regulatory protocol implementation [cite: 25] [cite_start]and reduced regulatory risks by **30%** via tailored training programs[cite: 26].
+* [cite_start]**Threat Intelligence:** Developed risk matrices identifying **15 high-risk threats**, supporting a targeted **50% reduction** in potential attack vectors[cite: 21].
+* [cite_start]**Security Operations:** Leveraged **SIEM (Splunk)** to decrease network downtime by **25%** and cut security response times by **20%**[cite: 16, 18].
+* [cite_start]**Incident Response:** Standardized GDPR breach notification processes, reducing average client reporting times by **2 days**[cite: 26, 27].
 
 ---
 
-### 🔥 Professional Experience
+## 🛠️ Technical Toolkit
 
-* **IT Solutions Analyst | Logic System & Solution (03/2022-10/2024)** 
-    * Spearheaded SIEM/Splunk implementation, decreasing network downtime by **25%** and resolving 6 critical system vulnerabilities. 
-    * Streamlined service delivery, improving compliance audit readiness and cutting security response times by **20%**. 
-* **Incident Response & Threat Intel Intern | Datacom (06/2024-08/2024)** 
-    * Evaluated risks and established a risk matrix, defining 15 high-risk threats to support a targeted **50% reduction** in potential attack vectors.
-    * Delivered strategic insights by analyzing 10+ complex risk scenarios, boosting client resilience against threats by **45%**. 
-* **Compliance & Risk Analyst Intern | Clifford Chance (03/2022-04/2022)** 
-    * Implemented ICO Dawn Raid protocols, enhancing client compliance readiness by **40%**. 
-    * Streamlined the GDPR breach notification process, reducing average client reporting time by **2 days**. 
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **Governance & Risk** | [cite_start]NIST CSF, ISO 27001, GDPR, HIPAA, Audit Management [cite: 43] |
+| **Security Operations** | [cite_start]SIEM (Splunk), IDS Configuration, Vulnerability Scanning, Wireshark [cite: 40, 44] |
+| **Infrastructure** | [cite_start]AD DS, Windows Server 2019, Kali Linux, VMware/VirtualBox [cite: 37, 41] |
+| **Networking** | [cite_start]DHCP, DNS, NAT, PowerShell, Load Balancers [cite: 37, 43] |
 
 ---
 
-### 🛡️ Core Projects
+## 🚀 Featured Cybersecurity Projects
 
-* **Enterprise-Level Active Directory Home Lab Implementation** 
-    * Architected an enterprise network simulation (Windows Server 2019/Windows 10 in VirtualBox), focusing on implementing security policies. 
-    * Automated user account provisioning and management for 100+ accounts using **PowerShell**. 
-* **Virtualized Security Environment Setup** 
-    * Configured firewall policies and network filtering, reducing unauthorized access attempts by **20%**. 
-    * Improved threat visibility and detection accuracy by **30%** through threat analysis and packet flow inspection using **Wireshark**. 
+### [Enterprise Active Directory Home Lab](https://github.com/your-username-here)
+* [cite_start]**Objective:** Architected and deployed an enterprise network simulation with Windows Server 2019[cite: 35].
+* [cite_start]**Key Achievement:** Automated user provisioning for **100+ accounts** using **PowerShell**, streamlining administration for incident response[cite: 36].
+* [cite_start]**Tech:** AD DS, DNS, DHCP, NAT, VirtualBox, Routing and Remote Access (RAS)[cite: 37].
 
----
-
-### 🏆 Education & Certifications
-
-* **Bachelor of Engineering (Information Technology)** - University of Mumbai (GPA 8.03) 
-* **ISO270001 Lead Auditor** (pursuing) 
-* **Cybersecurity Foundations: Governance, Risk, and Compliance (GRC)** – LinkedIn Learning 
-* **Network Engineer** – LetsDefend 
-* **Ethical hacking** – Techfest, IIT-Bombay 
+### [Virtualized Security Environment Setup](https://github.com/your-username-here)
+* [cite_start]**Objective:** Deployed Windows & Kali Linux VMs in a secure environment for controlled testing[cite: 40].
+* [cite_start]**Key Achievement:** Improved threat visibility and detection accuracy by **30%** through packet flow analysis using Wireshark[cite: 40].
+* [cite_start]**Tech:** Wireshark, Windows Defender Firewall, ICMP, VMware[cite: 41].
 
 ---
 
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/devrajkalyani)** 
+## 📜 Certifications
+* [cite_start]**ISO 27001 Lead Auditor** – BSCIC CQI IRCA [cite: 46]
+* [cite_start]**Cybersecurity Foundations: GRC** – LinkedIn Learning [cite: 47]
+* [cite_start]**Network Engineer** – LetsDefend [cite: 48]
+* [cite_start]**Ethical Hacking** – Techfest, IIT-Bombay [cite: 49]
+* [cite_start]**Introduction to Cyber Security** – Cisco Academy [cite: 50]
 
-### 📢 Let's Connect!
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DevrajKalyani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devrajkalyani/)  
-[![Email](https://img.shields.io/badge/Email-devrajkalyani10@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:devrajkalyani10@gmail.com)  
-
-🔥 Open to collaborations, security research, and exciting projects! Let’s connect.
-
+## 📫 Connect with Me
+* [cite_start]**LinkedIn:** [linkedin.com/in/devrajkalyani](https://www.linkedin.com/in/devrajkalyani) [cite: 3]
+* [cite_start]**Email:** devrajkalyani10@gmail.com [cite: 2]
+* [cite_start]**Location:** Mumbai, MH [cite: 3]
