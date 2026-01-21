@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Devraj Kalyani
-**GRC & Cybersecurity Analyst | [cite_start]ISO 27001 Lead Auditor** [cite: 1, 46]
+**GRC & Cybersecurity Analyst | ISO 27001 Lead Auditor** [cite: 1, 46]
 
 [cite_start]I am a security professional focused on bridging the gap between technical defense and regulatory compliance[cite: 1, 43]. [cite_start]With a background in **Information Technology Engineering**, I specialize in implementing robust security frameworks, streamlining audit readiness, and managing enterprise-level network environments[cite: 5, 18, 22].
 
